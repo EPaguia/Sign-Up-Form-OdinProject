@@ -121,4 +121,11 @@ button {
     border-radius: 1em;
     color: #FFFFFF;
     font-size: 1.2em;
+    border: solid;
+}
+
+.form-intro{
+    font-size: 1.5em;
+    font-family: Georgia;
+    font-weight: 400;
 }
